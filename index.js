@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 //balance and pin
 let myBalance = 20000; //dollar
